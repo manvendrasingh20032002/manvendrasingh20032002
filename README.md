@@ -44,8 +44,16 @@
 
 ### 📊 GitHub Stats
 
-<img src="https://github-stats-extended.vercel.app/api?username=manvendrasingh20032002&show_icons=true&theme=radical&hide_border=true&count_private=true" alt="Manvendra's GitHub Stats" width="48%" />
-<img src="https://github-stats-extended.vercel.app/api/top-langs/?username=manvendrasingh20032002&layout=compact&theme=radical&hide_border=true" alt="Top Languages" width="48%" />
+<table align="center" border="0" cellpadding="0" cellspacing="0">
+  <tr>
+    <td>
+      <img src="https://github-stats-extended.vercel.app/api?username=manvendrasingh20032002&show_icons=true&theme=radical&hide_border=true&count_private=true" alt="Manvendra's GitHub Stats" height="195px" />
+    </td>
+    <td valign="top">
+      <img src="https://github-stats-extended.vercel.app/api/top-langs/?username=manvendrasingh20032002&layout=compact&theme=radical&hide_border=true" alt="Top Languages" height="195px" />
+    </td>
+  </tr>
+</table>
 
 ---
 
